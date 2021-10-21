@@ -3,10 +3,10 @@ This program recognizes numbers from handwriting
 
 
 ## You need these to be able to use the program  
->TensorFlow-
->TensorFlow Link : https://www.tensorflow.org/install
->OpenCv 
->OpenCv Link : https://pypi.org/project/opencv-python/
+>TensorFlow  
+>TensorFlow Link : https://www.tensorflow.org/install  
+>OpenCv   
+>OpenCv Link : https://pypi.org/project/opencv-python/  
 
 ### About TensorFlow  
 > If you have Nvidia Cuda Supported GPU you can use TesorFlow Version<2.x  
